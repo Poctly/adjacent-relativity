@@ -1,0 +1,45 @@
+id,subject,relation,object,layers,context,evidence_status,provenance,note
+R01,Tezcatlipoca,name-change,Mixcoatl,C;V,HMP as summarized by Tlachia,checked-secondary,S02,Original passage still needed
+R02,Mixcoatl,produces,First fire,W;R;V,HMP as summarized by Tlachia,checked-secondary,S02,Do not equate flints with a rotating drill
+R03,Mixcoatl,father,Ce Acatl Quetzalcoatl,G;V,Tlachia commentary,checked-secondary,S02,Keep heroic narrative distinct from primordial deity
+R04,Chimalma,mother,Ce Acatl Quetzalcoatl,G;V,Discussion,discussion-claim,Discussion;S02 lead,Original edition needed
+R05,Quilaztli/Cihuacoatl,raises,Ce Acatl Quetzalcoatl,G;V,Discussion,discussion-claim,Discussion;S02 lead,Caregiver points toward child
+R06,Mixcoatl,father,Xolotl,G;V,Unspecified variant,discussion-claim,Brandon,Specific source needed
+R07,Chimalma,identified-with,Xochiquetzal,G;V,Unspecified variant,discussion-claim,Brandon,Do not merge without source
+R08,Mixcoatl,descendant-of,Toci/Coatlicue,G;V,Unspecified variant,discussion-claim,Brandon,Separate names and locate account
+R09,Xipe Totec,brother,Other Tezcatlipocas,C;G;V,Fourfold schema in discussion,discussion-claim,Brandon,Source-specific schema needed
+R10,Xipe Totec,analogous-to,Father principle,M,Proposed role distinction,participant-interpretation,Brandon,Not a verified title or etymology
+R11,Mixcoatl,occupies,Father principle,M;G,Proposed role distinction,participant-interpretation,Brandon,Interpretation of generative relation
+R12,Mixcoatl,designation,Red Tezcatlipoca,C;V,Tlachia commentary,checked-secondary,S02,Does not make all Red forms universally identical
+R13,Xipe Totec,designation,Red Tezcatlipoca,C;V,Discussion schema,discussion-claim,Discussion,Verify exact account
+R14,Black Tezcatlipoca,changes-aspect,Red/Mixcoatl,C;M;V,Proposed synthesis,participant-interpretation,Brandon,Distinguish aspect reading from attested name change
+R15,Cosmic Fire Drill,reorients,Heavens,C;M,Account described by participant,discussion-claim,Brandon,Exact source of axis tilt needed
+R16,Mixcoatl,associated-with,Hunt,W;R;V,Otomi/Chichimec associations,checked-secondary,S01,Lexical compilation
+R17,Mixcoatl,associated-with,Milky Way,C;V,Discussion and Tlachia commentary,discussion-claim,Discussion;S02 lead,Avoid inference of galactic mechanics
+R18,Mixcoatl,creates,Mimixcoa/warrior group,C;G;V,Creation strand,discussion-claim,Discussion;S02 lead,Separate variant episodes
+R19,Mixcoatl,member-of,Five Mimixcoa,C;G;V,Five versus Four Hundred strand,discussion-claim,Discussion;S02 lead,Not same relation as creator
+R20,Itzpapalotl,transforms-through-burning,Colored flints,R;V,Discussion,discussion-claim,Discussion;S02 lead,Keep ashes variant separate
+R21,Mixcoatl,adopts-as-sacred-object,White flint,R;V,Tlachia commentary,checked-secondary,S02,Underlying source still needed
+R22,Coatlicue,mother,Huitzilopochtli/Coyolxauhqui/Centzon Huitznahua,G;V,Discussion,discussion-claim,Discussion;S03 lead,Separate collective and individual nodes later
+R23,Tlaloc,associated-with,Tlaloque/rain/mountains,W;R,Discussion,discussion-claim,Assistant,Not automatic parentage
+R24,Tlaloc,union,Chalchiuhtlicue,G;V,Discussion,discussion-claim,Assistant,Verify by account
+R25,Chalchiuhtlicue,associated-with,Flowing water/Fourth Sun,W;C;V,Discussion,discussion-claim,Assistant,Separate functions and Sun assignment
+R26,Chicomecoatl/Centeotl/Xilonen,process-group,Maize cycle,W;M,Proposed grouping,assistant-proposal,Assistant,No assumed biological genealogy
+R27,Xochiquetzal/Xochipilli,process-group,Flowers/fertility/arts,W;R,Discussion,discussion-claim,Assistant,Verify each attribute
+R28,Mayahuel/Patecatl,parentage-proposed,Centzon Totochtin,G;V,Discussion,discussion-claim,Assistant,Source needed
+R29,Centzon Totochtin,models,Multiplicity of intoxication,M,Proposed interpretation,assistant-proposal,Assistant,Needs interpretive source
+R30,Quetzalcoatl,counterpart,Xolotl,C;V,Discussion,discussion-claim,Discussion,Verify nature of pairing
+R31,Quetzalcoatl,aspect-proposed,Ehecatl,C;W;V,Discussion,discussion-claim,Assistant,Specific identity relation needed
+R32,Tlahuizcalpantecuhtli,associated-with,Morning Star,C;V,Discussion,discussion-claim,Assistant,Keep Venus roles source-specific
+R33,Quetzalcoatl,retrieves,Bones from Mictlan,C;R;V,Discussion,discussion-claim,Assistant,Locate primary passage
+R34,Bones and divine blood,produces,Present humanity,C;M;V,Discussion,discussion-claim,Assistant,Record other actors and exact sequence
+R35,Huehueteotl/Xiuhtecuhtli,process-group,Fire/time/center,C;R,Discussion,assistant-proposal,Assistant,Identity and functions need evidence
+R36,Mictlantecuhtli/Mictecacihuatl,rules,Mictlan,C;V,Discussion,discussion-claim,Assistant,Do not infer parentage
+R37,Nanahuatzin,transforms-into,Tonatiuh,C;V,Discussion,discussion-claim,Assistant,Verify exact narrative wording
+R38,Tecuciztecatl,transforms-into,Moon,C;V,Discussion,discussion-claim,Assistant,Primary narrative needed
+R39,Five Suns,models,Creation/destruction/renewal,C;M,Proposed synthesis,assistant-proposal,Assistant,Compare variants
+R40,Calendar Round,recurs-after,18980 days,W;R,Calendar arithmetic,assistant-proposal,Discussion;arithmetic,52 years of 365 days; ritual evidence separate
+R41,New Fire,marks,Cycle renewal,R;M,Discussion,discussion-claim,Discussion,Verify regional ritual evidence
+R42,Mythic recurrence,compared-with,Recurring phase and instance,M,Adjacent Relativity,adjacent-analogy,Brandon and assistant,Does not recover a unique origin
+R43,Changed orientation,may-change,Outcome,M,Cross-domain proposal,participant-interpretation,Brandon,Distinguish physical change from changed description
+R44,Ometeotl/duality,root-proposed,Four creator powers,C;M;V,Assistant synthesis,assistant-proposal,Assistant,Unified-root interpretation needs investigation
